@@ -7,6 +7,7 @@
 		 url('cmunsl.svg#cmunsl') format('svg');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 
@@ -19,4 +20,5 @@
 		 url('cmunbl.svg#cmunbl') format('svg');
 	font-weight: bold;
 	font-style: normal;
+	font-display: swap;
 }
